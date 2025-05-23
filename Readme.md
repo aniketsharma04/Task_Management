@@ -35,17 +35,18 @@ _A task management app, where users can organize their personal and team-based t
 
 </a>
 
+<!--
 ## **Table of Contents**
 
--   [Features](#features)
--   [Tech Stack](#tech-stack)
--   [Setup Instructions](#setup-instructions)
--   [Scripts](#scripts)
--   [Live Demo](#live-demo)
--   [Author](#author)
--   [License](#license)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Setup Instructions](#setup-instructions)
+- [Scripts](#scripts)
+- [Live Demo](#live-demo)
+- [Author](#author)
+- [License](#license)
+-->
 
----
 
 ## **Features**
 
